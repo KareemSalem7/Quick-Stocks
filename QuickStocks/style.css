@@ -24,6 +24,29 @@ body {
   align-items: center;
 }
 
+.section {
+  margin: 20px 0;
+  padding: 20px;
+  border: 1px solid #ccc;
+  background-color: #f9f9f9;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+/* Style for the section title */
+.section-title {
+  font-size: 18px;
+  margin-bottom: 10px;
+  color: #333;
+}
+
+.section description {
+  font-size: 12px; 
+}
+
+.section p {
+  font-size: 16px; 
+}
+
 .image-logo {
   width: 300px
 }
